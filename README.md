@@ -68,7 +68,7 @@
 ###
 
 <div align="left">
-  <a href="autumn_02" target="_blank">
+  <a href="https://discord.com/users/autumn_02" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="akhileshdamke7860@gmail.com" target="_blank">
@@ -80,7 +80,7 @@
   <a href="https://www.instagram.com/autumn_02_?igsh=N29sMmJpMjc5MTRx" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="7558393077" target="_blank">
+  <a href="https://wa.me/7558393077" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
 </div>
