@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>I am Akhilesh Damke and I'm an ML Developer, from India</h2>
+<h2 align="left">Hi 👋! <br>I'm Akhilesh Damke and I'm an ML Developer 🤖👨🏻‍💻, from India</h2>
 
 ###
 
